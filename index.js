@@ -12,7 +12,7 @@ inquirer
       },
       {
         type: "input",
-        message: "Please provide a description of the project?",
+        message: "Please provide a description of the project.",
         name: "description",
       },
       {
@@ -22,7 +22,7 @@ inquirer
       },
       {
         type: "input",
-        message: "What are the instructions and how to use this project?",
+        message: "What are the instructions on how to use this project?",
         name: "usage",
       },
       {
